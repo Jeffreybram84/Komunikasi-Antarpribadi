@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ujian Komunikasi Antarpribadi — UT</title>
+<style>
+:root{--blue:#1565a8;--blue2:#0d4778;--bg:#eef7ff;--card:#fff;--text:#17324d;--muted:#657789;--ok:#16834a;--bad:#c62828}
+*{box-sizing:border-box}body{margin:0;font-family:Arial,Helvetica,sans-serif;background:linear-gradient(135deg,#eef7ff,#f7fbff);color:var(--text)}
+.wrap{max-width:900px;margin:auto;padding:18px}.card{background:#fff;border-radius:22px;padding:24px;box-shadow:0 10px 30px #0b4b7620;margin:16px 0}
+.logo{width:110px;height:110px;border-radius:28px;background:linear-gradient(145deg,#1976b8,#0d4778);color:white;display:flex;align-items:center;justify-content:center;font-size:38px;font-weight:800;margin:10px auto 20px;box-shadow:0 12px 25px #0d477833}
+h1{text-align:center;color:var(--blue2);margin:6px 0}.sub{text-align:center;color:var(--muted)}
+label{display:block;font-weight:700;margin:14px 0 6px}select,input,button{font:inherit}select,input{width:100%;padding:12px;border:1px solid #c8d6e3;border-radius:12px;background:white}
+button{border:0;border-radius:12px;padding:12px 18px;cursor:pointer;font-weight:700}.primary{background:var(--blue);color:white}.secondary{background:#e7f1f9;color:var(--blue2)}.danger{background:var(--bad);color:#fff}.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}.center{text-align:center}
+#exam{display:none}.top{position:sticky;top:0;background:#fff;z-index:5;padding:12px;border-radius:14px;box-shadow:0 4px 15px #0001}.timer{font-size:22px;font-weight:800;color:var(--blue2)}.qnav{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0}.qnav button{padding:8px 11px;background:#edf3f7}.qnav button.active{background:var(--blue);color:#fff}.qnav button.done{outline:2px solid var(--ok)}
+.option{display:block;border:1px solid #d4e0e8;padding:14px;border-radius:12px;margin:10px 0;cursor:pointer}.option:hover{background:#f3f9fd}.option input{width:auto;margin-right:10px}
+.actions{display:flex;justify-content:space-between;gap:10px;margin-top:18px}.result{text-align:center}.score{font-size:54px;font-weight:900;color:var(--blue2)}.review{border-top:1px solid #dbe4eb;padding:16px 0}.correct{color:var(--ok)}.wrong{color:var(--bad)}
+.small{font-size:13px;color:var(--muted)}@media(max-width:650px){.wrap{padding:10px}.card{padding:16px;border-radius:16px}.grid{grid-template-columns:1fr}.logo{width:90px;height:90px;font-size:30px}.score{font-size:44px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div id="start" class="card">
+  <div class="logo">KA</div>
+  <h1>Komunikasi Antarpribadi</h1>
+  <p class="sub">Latihan & Ujian Mahasiswa • Universitas Terbuka</p>
+  <p class="center small">Bank soal berdasarkan materi yang diberikan. Total <b>126 soal</b> dari Modul 1–9.</p>
+  <label>Nama Peserta</label><input id="name" placeholder="Masukkan nama Anda">
+  <div class="grid">
+    <div><label>Modul</label><select id="module"><option value="all">Semua Modul</option></select></div>
+    <div><label>Tes Formatif</label><select id="test"><option value="all">Semua Tes</option></select></div>
+    <div><label>Jumlah Soal</label><select id="count"><option>10</option><option>20</option><option>30</option><option>40</option><option>50</option><option value="all">Semua</option></select></div>
+    <div><label>Waktu</label><select id="time"><option value="15">15 menit</option><option value="30">30 menit</option><option value="45">45 menit</option><option value="60" selected>60 menit</option><option value="90">90 menit</option></select></div>
+  </div>
+  <p><label><input id="shuffle" type="checkbox" checked style="width:auto"> Acak urutan soal dan pilihan jawaban</label></p>
+  <button class="primary" style="width:100%;font-size:18px" onclick="startExam()">MULAI UJIAN</button>
+</div>
+
+<div id="exam">
+  <div class="top">
+    <div style="display:flex;justify-content:space-between;gap:10px;align-items:center">
+      <b id="progress"></b><span class="timer" id="timer">60:00</span>
+    </div>
+    <div class="qnav" id="qnav"></div>
+  </div>
+  <div class="card">
+    <div class="small" id="meta"></div>
+    <h2 id="question"></h2>
+    <div id="options"></div>
+    <div class="actions">
+      <button class="secondary" onclick="prevQ()">← Sebelumnya</button>
+      <button class="primary" id="nextBtn" onclick="nextQ()">Berikutnya →</button>
+    </div>
+    <button class="danger" style="width:100%;margin-top:12px" onclick="finish()">SELESAI UJIAN</button>
+  </div>
+</div>
+
+<div id="result" class="card" style="display:none"></div>
+</div>
+<script>
+let bank=[], exam=[], answers=[], idx=0, timerId=null, seconds=0;
+fetch('questions.json').then(r=>r.json()).then(data=>{
+ bank=data;
+ const mods=[...new Set(bank.map(x=>x.module))];
+ module.innerHTML='<option value="all">Semua Modul</option>'+mods.map(m=>`<option value="${m}">Modul ${m}</option>`).join('');
+ module.onchange=updateTests; updateTests();
+}).catch(()=>alert('questions.json tidak ditemukan. Pastikan file berada di folder assets yang sama dengan aplikasi.'));
+
+function updateTests(){
+ const m=module.value;
+ const ts=[...new Set(bank.filter(x=>m==='all'||x.module==m).map(x=>x.test))];
+ test.innerHTML='<option value="all">Semua Tes</option>'+ts.map(t=>`<option value="${t}">Tes Formatif ${t}</option>`).join('');
+}
+function shuffle(a){for(let i=a.length-1;i>0;i--){let j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
+function startExam(){
+ let nameVal=document.getElementById('name').value.trim();
+ if(!nameVal){alert('Masukkan nama peserta terlebih dahulu.');return}
+ let m=module.value,t=test.value;
+ let pool=bank.filter(x=>(m==='all'||x.module==m)&&(t==='all'||x.test==t));
+ if(!pool.length){alert('Soal tidak tersedia.');return}
+ if(shuffle.checked) pool=shuffle([...pool]);
+ let n=count.value==='all'?pool.length:Math.min(+count.value,pool.length);
+ exam=pool.slice(0,n).map(q=>{
+   let opts=q.options.map((text,i)=>({text,correct:i===q.answer}));
+   if(shuffle.checked) opts=shuffle(opts);
+   return {...q,opts};
+ });
+ answers=Array(exam.length).fill(null);idx=0;
+ seconds=+time.value*60;
+ start.style.display='none';examEl().style.display='block';result.style.display='none';
+ render();clearInterval(timerId);timerId=setInterval(tick,1000);
+}
+function examEl(){return document.getElementById('exam')}
+function tick(){seconds--; if(seconds<=0){clearInterval(timerId);finish(true);return} let m=Math.floor(seconds/60),s=seconds%60;timer.textContent=`${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`}
+function render(){
+ progress.textContent=`Soal ${idx+1} dari ${exam.length}`;
+ meta.textContent=`Modul ${exam[idx].module} • Tes Formatif ${exam[idx].test}`;
+ question.textContent=exam[idx].question;
+ options.innerHTML=exam[idx].opts.map((o,i)=>`<label class="option"><input type="radio" name="ans" ${answers[idx]===i?'checked':''} onchange="answers[idx]=${i};renderNav()"> ${String.fromCharCode(65+i)}. ${o.text}</label>`).join('');
+ nextBtn.textContent=idx===exam.length-1?'Lihat Hasil →':'Berikutnya →';
+ renderNav();
+}
+function renderNav(){qnav.innerHTML=exam.map((_,i)=>`<button class="${i===idx?'active ':''}${answers[i]!==null?'done':''}" onclick="idx=${i};render()">${i+1}</button>`).join('')}
+function nextQ(){if(idx<exam.length-1){idx++;render()}else finish(false)}
+function prevQ(){if(idx>0){idx--;render()}}
+function finish(auto=false){
+ clearInterval(timerId);
+ let correct=0,answered=0;
+ exam.forEach((q,i)=>{if(answers[i]!==null){answered++;if(q.opts[answers[i]].correct)correct++}});
+ let score=Math.round(correct/exam.length*100);
+ examEl().style.display='none';
+ result.style.display='block';
+ result.innerHTML=`<div class="result"><div class="logo">KA</div><h1>Hasil Ujian</h1>
+ <p>${auto?'Waktu habis. Ujian dikumpulkan otomatis.':'Ujian telah selesai.'}</p>
+ <div class="score">${score}</div><p><b>${document.getElementById('name').value}</b></p>
+ <p>Benar: <b>${correct}</b> &nbsp; Salah: <b>${answered-correct}</b> &nbsp; Tidak dijawab: <b>${exam.length-answered}</b></p>
+ <button class="primary" onclick="showReview()">LIHAT PEMBAHASAN & KUNCI</button></div><div id="review" style="display:none"></div>`;
+}
+function showReview(){
+ let r=document.getElementById('review');r.style.display='block';
+ r.innerHTML=exam.map((q,i)=>{
+   let chosen=answers[i], ok=chosen!==null&&q.opts[chosen].correct;
+   return `<div class="review"><b>${i+1}. ${q.question}</b><p class="${ok?'correct':'wrong'}">Jawaban Anda: ${chosen===null?'Tidak dijawab':String.fromCharCode(65+chosen)+'. '+q.opts[chosen].text}</p>
+   <p class="correct">Kunci: ${String.fromCharCode(65+q.opts.findIndex(o=>o.correct))}. ${q.opts.find(o=>o.correct).text}</p></div>`;
+ }).join('');
+}
+</script>
+</body></html>

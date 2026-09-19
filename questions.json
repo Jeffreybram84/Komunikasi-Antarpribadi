@@ -1,0 +1,1640 @@
+[
+  {
+    "module": 1,
+    "test": 1,
+    "question": "Menurut Adler, komunikasi antarpribadi dapat dijabarkan ke dalam dua definisi, yakni definisi ....",
+    "options": [
+      "personal dan definisi situasional",
+      "situasional dan definisi kualitatif",
+      "kualitatif dan definisi kuantitatif",
+      "langsung dan definisi tidak langsung"
+    ],
+    "answer": 1,
+    "id": 1
+  },
+  {
+    "module": 1,
+    "test": 1,
+    "question": "Menurut Elihu Katz dan Paul Lazarsfeld, syarat utama terjadinya komunikasi antarpribadi adalah, kecuali ....",
+    "options": [
+      "kehadiran pihak-pihak yang berkomunikasi secara tatap muka",
+      "umpan balik dapat segera diketahui",
+      "dapat memanfaatkan semua atau sebagian alat indra yang ada pada manusia",
+      "menggunakan digunakan alat-alat mekanis seperti telepon, surat atau kamera televisi"
+    ],
+    "answer": 3,
+    "id": 2
+  },
+  {
+    "module": 1,
+    "test": 1,
+    "question": "Berikut ini yang merupakan contoh komunikasi antarpribadi adalah ....",
+    "options": [
+      "Yuni sedang melakukan video call dengan keluarga besarnya yang sedang berkumpul merayakan Idul Fitri di rumah neneknya",
+      "Vina sedang menghubungi call center bank untuk menanyakan solusi dari kartu ATM-nya yang tertelan",
+      "Mita sedang mendiskusikan pilihan jurusan yang akan ia ambil di perguruan tinggi dengan kakaknya",
+      "Tara sedang berbicara dalam rapat terkait proyek baru yang akan dikerjakan timnya"
+    ],
+    "answer": 2,
+    "id": 3
+  },
+  {
+    "module": 1,
+    "test": 1,
+    "question": "Reaksi atau balasan pesan yang diberikan oleh penerima kepada pembicara disebut dengan ....",
+    "options": [
+      "decoding",
+      "endcoding",
+      "feedback",
+      "pesan"
+    ],
+    "answer": 2,
+    "id": 4
+  },
+  {
+    "module": 1,
+    "test": 1,
+    "question": "Dalam definisi kualitatif komunikasi antarpribadi, pendekatan difokuskan kepada ....",
+    "options": [
+      "kualitas interaksi di antara individu yang terlibat",
+      "saluran komunikasi yang digunakan",
+      "jumlah orang yang terlibat dalam komunikasi",
+      "kecepatan feedback"
+    ],
+    "answer": 0,
+    "id": 5
+  },
+  {
+    "module": 1,
+    "test": 1,
+    "question": "Ilustrasi hubungan Dina dan Emma yang berkembang dari teman kuliah menjadi sahabat seiring bertambahnya keintiman dan frekuensi interaksi merupakan definisi komunikasi antarpribadi melalui pendekatan ....",
+    "options": [
+      "diadik",
+      "pengembangan hubungan",
+      "konflik",
+      "komunikasi antarbudaya"
+    ],
+    "answer": 1,
+    "id": 6
+  },
+  {
+    "module": 1,
+    "test": 2,
+    "question": "Berikut ini merupakan beberapa aksioma yang perlu diperhatikan dalam komunikasi interpersonal menurut DeVito, kecuali ....",
+    "options": [
+      "tidak perlu proses penyesuaian",
+      "merupakan proses transaksional",
+      "seringkali tidak terhindarkan",
+      "bersifat irreversible"
+    ],
+    "answer": 0,
+    "id": 7
+  },
+  {
+    "module": 1,
+    "test": 2,
+    "question": "Ciri-ciri komunikasi antarpribadi menurut Everet M. Rogers adalah komunikasi ....",
+    "options": [
+      "terjadi secara kebetulan",
+      "antarpribadi menggunakan lambang-lambang bermakna",
+      "antarpribadi paling sedikit melibatkan dua orang",
+      "antarpribadi mempunyai tingkat umpan balik yang tinggi"
+    ],
+    "answer": 3,
+    "id": 8
+  },
+  {
+    "module": 1,
+    "test": 2,
+    "question": "Terdapat dua dimensi dalam komunikasi antarpribadi menurut DeVito, yaitu ....",
+    "options": [
+      "hubungan dan jarak",
+      "isi dan hubungan",
+      "waktu dan jarak",
+      "isi dan waktu"
+    ],
+    "answer": 1,
+    "id": 9
+  },
+  {
+    "module": 1,
+    "test": 2,
+    "question": "Salah satu tujuan komunikasi antarpribadi adalah ....",
+    "options": [
+      "mempengaruhi khalayak luas",
+      "mengambil keputusan-keputusan organisasi",
+      "memelihara hubungan dan mengembangkan kedekatan atau keakraban",
+      "memberikan informasi kepada publik"
+    ],
+    "answer": 2,
+    "id": 10
+  },
+  {
+    "module": 1,
+    "test": 2,
+    "question": "Berikut ini merupakan karakteristik dari komunikasi antarpribadi, kecuali ....",
+    "options": [
+      "harus menggunakan kata-kata",
+      "melibatkan paling sedikit dua orang",
+      "dipengaruhi oleh konteks",
+      "dipengaruhi oleh kegaduhan atau noise"
+    ],
+    "answer": 0,
+    "id": 11
+  },
+  {
+    "module": 1,
+    "test": 2,
+    "question": "Berikut ini yang merupakan contoh penggunaan internet dalam penggunaan komunikasi antarpribadi adalah ....",
+    "options": [
+      "Anita mendiskusikan pekerjaannya dengan bosnya yang sedang berada di luar negeri",
+      "Fira sedang mengunggah tulisan mengenai literasi media di blognya",
+      "Dika mengobrol dan menatap mata Ibunya melalui layanan video call",
+      "Vanya mengunggah video liburannya ke Bali di youtube"
+    ],
+    "answer": 2,
+    "id": 12
+  },
+  {
+    "module": 1,
+    "test": 3,
+    "question": "Berikut ini adalah hal-hal yang mempengaruhi komunikasi efektif berdasarkan perbedaan budaya, kecuali ....",
+    "options": [
+      "budaya maskulin dan feminim",
+      "waktu dan jarak",
+      "konteks tinggi dan konteks rendah",
+      "jarak kekuasaan"
+    ],
+    "answer": 1,
+    "id": 13
+  },
+  {
+    "module": 1,
+    "test": 3,
+    "question": "Berikut ini yang merupakan dimensi dalam komunikasi antar budaya adalah ....",
+    "options": [
+      "tingkat masyarakat kelompok budaya dari para partisipan",
+      "saluran yang dilalui oleh pesan-pesan komunikasi antar budaya",
+      "konteks sosial tempat terjadinya komunikasi antar budaya",
+      "semua benar"
+    ],
+    "answer": 3,
+    "id": 14
+  },
+  {
+    "module": 1,
+    "test": 3,
+    "question": "Di bawah ini adalah unsur-unsur budaya dalam komunikasi antar budaya, kecuali ....",
+    "options": [
+      "pola pikir",
+      "dimensi jarak",
+      "proses verbal dan non verbal",
+      "konsep waktu"
+    ],
+    "answer": 1,
+    "id": 15
+  },
+  {
+    "module": 1,
+    "test": 3,
+    "question": "Gudykunst berpendapat bahwa komunikasi lintas budaya yang efektif didasarkan pada kemampuan mengelola ....",
+    "options": [
+      "ketidakpastian dan kegelisahan",
+      "kecemasan dan ketakutan",
+      "kecemasan dan ketidakpastian",
+      "kepercayaan diri"
+    ],
+    "answer": 0,
+    "id": 16
+  },
+  {
+    "module": 1,
+    "test": 3,
+    "question": "Berikut ini yang bukan merupakan salah satu dimensi kebudayaan dalam komunikasi antar budaya adalah ....",
+    "options": [
+      "tingkat masyarakat kelompok budaya dari para partisipan",
+      "konteks sosial tempat terjadinya Komunikasi Antar Budaya",
+      "gender dari pelaku komunikasi",
+      "saluran yang dilalui oleh pesan-pesan-KAB (baik yang bersifat verbal maupun nonverbal)."
+    ],
+    "answer": 2,
+    "id": 17
+  },
+  {
+    "module": 2,
+    "test": 1,
+    "question": "Proses psikologis yang diasosiasikan dengan interpretasi dan pemberian makna terhadap orang atau objek tertentu, dikenal sebagai ....",
+    "options": [
+      "persepsi",
+      "intuisi",
+      "atensi",
+      "seleksi"
+    ],
+    "answer": 0,
+    "id": 18
+  },
+  {
+    "module": 2,
+    "test": 1,
+    "question": "Persepsi merupakan inti komunikasi sedangkan penafsiran (interpretasi) merupakan ....",
+    "options": [
+      "inti komunikasi antarpribadi",
+      "inti interaksi",
+      "inti persepsi",
+      "tujuan komunikasi"
+    ],
+    "answer": 2,
+    "id": 19
+  },
+  {
+    "module": 2,
+    "test": 1,
+    "question": "Persepsi ialah memberikan makna pada rangsangan pancaindra (sensory stimuli), yakni ....",
+    "options": [
+      "penglihatan",
+      "penciuman",
+      "peraba dan pendengaran",
+      "semua benar"
+    ],
+    "answer": 3,
+    "id": 20
+  },
+  {
+    "module": 2,
+    "test": 1,
+    "question": "Berikut ini yang bukan merupakan definisi persepsi adalah ....",
+    "options": [
+      "proses di mana kita menjadi sadar terhadap sebuah objek, kejadian dan terutama orang lain melalui panca indra, meliputi penglihatan, penciuman, perasa, sentuhan dan pendengaran.",
+      "proses psikologis yang diasosiasikan dengan interpretasi dan pemberian makna terhadap orang atau objek tertentu",
+      "memberikan makna pada rangsangan pancaindra (sensory stimuli), yakni penglihatan, penciuman, peraba dan pendengaran.",
+      "proses penyampaian pesan dari komunikator ke komunikan melalui saluran tertentu dan menghasilkan feedback"
+    ],
+    "answer": 3,
+    "id": 21
+  },
+  {
+    "module": 2,
+    "test": 2,
+    "question": "Berikut ini yang merupakan termasuk sifat-sifat persepsi adalah ....",
+    "options": [
+      "persepsi adalah pengalaman",
+      "persepsi adalah penyimpulan",
+      "persepsi tidak akurat",
+      "semua jawaban benar"
+    ],
+    "answer": 3,
+    "id": 22
+  },
+  {
+    "module": 2,
+    "test": 2,
+    "question": "Berikut ini yang merupakan elemen-elemen persepsi adalah ....",
+    "options": [
+      "sensasi pengindraan dan interpretasi, Genre, bentuk dan latar belakang",
+      "exposure, harapan, figure and backgorund",
+      "sensasi pengindraan dan interpretasi, harapan, attention",
+      "sensasi pengindraan dan interpretasi, harapan, figure and backgorund"
+    ],
+    "answer": 3,
+    "id": 23
+  },
+  {
+    "module": 2,
+    "test": 2,
+    "question": "Di bawah ini yang bukan merupakan tahapan persepsi menurut DeVito adalah ....",
+    "options": [
+      "seleksi",
+      "organisasi",
+      "intuisi",
+      "interpretasi"
+    ],
+    "answer": 2,
+    "id": 24
+  },
+  {
+    "module": 2,
+    "test": 2,
+    "question": "Berikut ini merupakan faktor penyebab kegagalan persepsi, kecuali ....",
+    "options": [
+      "noise",
+      "efek halo",
+      "stereotipe",
+      "prasangka"
+    ],
+    "answer": 0,
+    "id": 25
+  },
+  {
+    "module": 2,
+    "test": 2,
+    "question": "Berikut ini yang merupakan faktor yang mempengaruhi persepsi adalah ....",
+    "options": [
+      "genre",
+      "situasi",
+      "kontak",
+      "atensi"
+    ],
+    "answer": 1,
+    "id": 26
+  },
+  {
+    "module": 2,
+    "test": 3,
+    "question": "Persepsi evaluatif seseorang terhadap dirinya sendiri, disebut ....",
+    "options": [
+      "konsep diri",
+      "self esteem",
+      "atensi",
+      "evaluasi"
+    ],
+    "answer": 1,
+    "id": 27
+  },
+  {
+    "module": 2,
+    "test": 3,
+    "question": "Berikut ini merupakan elemen kesadaran diri menurut Fisher, kecuali ....",
+    "options": [
+      "self esteem",
+      "konsep diri",
+      "Social self",
+      "multiple selves"
+    ],
+    "answer": 2,
+    "id": 28
+  },
+  {
+    "module": 2,
+    "test": 3,
+    "question": "Proses perkembangan kesadaran diri diperoleh melalui tiga konsep, yaitu ....",
+    "options": [
+      "reflective, social self, dan becoming self",
+      "reflexive, social self, dan becoming self",
+      "reflexive, social self, dan self esteem",
+      "reflective, social self, dan self esteem"
+    ],
+    "answer": 1,
+    "id": 29
+  },
+  {
+    "module": 2,
+    "test": 3,
+    "question": "Ibu Nyoman menganggap Ani, gadis yang berada satu gerbong dengannya, adalah orang yang benar-benar berhati mulia karena ia menawarkan bangku yang didudukinya kepada Bu Nyoman yang berdiri sambil menggendong bayinya. Hal ini merupakan contoh dari bentuk kekeliruan persepsi ....",
+    "options": [
+      "kesalahan atribusi",
+      "efek halo",
+      "gegar budaya",
+      "prasangka"
+    ],
+    "answer": 1,
+    "id": 30
+  },
+  {
+    "module": 3,
+    "test": 1,
+    "question": "Aktivitas yang paling banyak dilakukan dalam berkomunikasi adalah ....",
+    "options": [
+      "berbicara",
+      "membaca",
+      "menulis",
+      "mendengar"
+    ],
+    "answer": 3,
+    "id": 31
+  },
+  {
+    "module": 3,
+    "test": 1,
+    "question": "Di bawah ini manakah yang termasuk aktivitas mendengarkan dalam komunikasi antar pribadi?",
+    "options": [
+      "Mirna mendengar suara anak kucing dari belakang rumahnya.",
+      "Pagi tadi, Fajar mendengar rekomendasi film bulan ini dari seorang penyiar di radio.",
+      "Fani sedang mendengarkan curhatan Mia, sahabatnya, mengenai orang tuanya yang akan bercerai.",
+      "Keenan mengerjakan proyek web komiknya sambil mendengarkan lagu favoritnya, Lost Boy dari Ruth B."
+    ],
+    "answer": 2,
+    "id": 32
+  },
+  {
+    "module": 3,
+    "test": 1,
+    "question": "Menurut DeVito, orang dewasa meluangkan waktunya untuk mendengar, sebanyak ....",
+    "options": [
+      "45%",
+      "16%",
+      "25%",
+      "70%"
+    ],
+    "answer": 0,
+    "id": 33
+  },
+  {
+    "module": 3,
+    "test": 1,
+    "question": "Mendengarkan adalah proses yang ....",
+    "options": [
+      "aktif",
+      "pasif",
+      "tidak disadari",
+      "tidak perlu dilatih"
+    ],
+    "answer": 0,
+    "id": 34
+  },
+  {
+    "module": 3,
+    "test": 1,
+    "question": "Contoh aktivitas mendengar yang baik adalah ....",
+    "options": [
+      "mendengar curhatan sahabat sambil bermain handphone",
+      "menyimak dosen di kelas dan bertanya saat diberi kesempatan",
+      "mendengarkan seminar sambil menahan kantuk",
+      "mendengarkan berita di TV sambil memasak di saat Bersama"
+    ],
+    "answer": 1,
+    "id": 35
+  },
+  {
+    "module": 3,
+    "test": 2,
+    "question": "Di bawah ini yang merupakan tahapan dari mendengarkan efektif dari model HURIER adalah ....",
+    "options": [
+      "Hearing, Underestimate, Remembering, Interpreting, Evaluating, Responding.",
+      "Hearing, Understanding, Reviewing, Interpreting, Evaluating, Responding.",
+      "Hearing, Understanding, Responding, Interpreting, Evaluating, Remembering.",
+      "Hearing, Understanding, Remembering, Interpreting, Evaluating, Responding"
+    ],
+    "answer": 3,
+    "id": 36
+  },
+  {
+    "module": 3,
+    "test": 2,
+    "question": "Hal yang perlu diperhatikan dalam mengevaluasi adalah ....",
+    "options": [
+      "abaikan segala bentuk kecurigaan, hal-hal yang menarik, atau anggapan yang membuat komunikator terkesan tidak fair terhadap apa yang disampaikan.",
+      "asumsikan komunikator sebagai orang yang berniat baik dan bersikap baik jugalah ketika meminta klarifikasi tentang hal-hal yang ingin kita ketahui lebih detail.",
+      "berikan evaluasi ketika telah benar-benar memahami inti pesan yang disampaikan.",
+      "bedakan fakta dari kesimpulan, opini, dan interpretasi dari individu komunikator."
+    ],
+    "answer": 0,
+    "id": 37
+  },
+  {
+    "module": 3,
+    "test": 2,
+    "question": "Berikut ini merupakan tipe-tipe mendengarkan menurut Floyd (2012), kecuali mendengarkan ....",
+    "options": [
+      "informasional",
+      "simpati",
+      "kritis",
+      "empati"
+    ],
+    "answer": 1,
+    "id": 38
+  },
+  {
+    "module": 3,
+    "test": 2,
+    "question": "Manfaat dari mendengarkan secara efektif adalah ....",
+    "options": [
+      "agar diapresiasi orang lain",
+      "mengurangi kesalahpahaman",
+      "mengkritisi orang lain",
+      "mengapresiasi orang lain"
+    ],
+    "answer": 1,
+    "id": 39
+  },
+  {
+    "module": 3,
+    "test": 2,
+    "question": "Proses dimana kita memberikan tanggapan kepada orang yang berbicara, disebut ....",
+    "options": [
+      "responding",
+      "interpretasi",
+      "asimilasi",
+      "evaluating"
+    ],
+    "answer": 0,
+    "id": 40
+  },
+  {
+    "module": 3,
+    "test": 3,
+    "question": "Berikut ini yang bukan merupakan hambatan mendengarkan adalah ....",
+    "options": [
+      "asimilasi",
+      "mendengar hal yang tidak diharapkan",
+      "sibuk dengan masalah eksternal",
+      "mempertajam (Sharpening)"
+    ],
+    "answer": 1,
+    "id": 41
+  },
+  {
+    "module": 3,
+    "test": 3,
+    "question": "Di bawah ini yang bukan merupakan hal yang dilakukan untuk meningkatkan keefektifan mendengarkan dalam komunikasi antarpribadi adalah ....",
+    "options": [
+      "berkomunikasi dua arah",
+      "menghindari asumsi terhadap lawan bicara",
+      "menciptakan suasana yang serius",
+      "berhenti berbicara"
+    ],
+    "answer": 2,
+    "id": 42
+  },
+  {
+    "module": 3,
+    "test": 3,
+    "question": "Salah satu hambatan dalam mendengarkan efektif adalah, kecuali ....",
+    "options": [
+      "sibuk dengan diri sendiri",
+      "sibuk dengan masalah-masalah eksternal",
+      "asimilasi",
+      "menghindari berasumsi"
+    ],
+    "answer": 3,
+    "id": 43
+  },
+  {
+    "module": 3,
+    "test": 3,
+    "question": "Kecenderungan untuk merekonstruksi pesan sedemikian rupa sehingga sesuai dengan sikap, prasangka, kebutuhan, dan nilai kita sendiri, disebut ....",
+    "options": [
+      "asimilasi",
+      "sharpening",
+      "interupsi",
+      "berempati"
+    ],
+    "answer": 0,
+    "id": 44
+  },
+  {
+    "module": 3,
+    "test": 3,
+    "question": "Salah satu tindakan yang dilakukan untuk menjadi pendengar yang baik adalah ....",
+    "options": [
+      "memberikan interupsi",
+      "mendengarkan sambil berbicara",
+      "fokus pada masalah eksternal dan bukan pada pembicaraan",
+      "memberikan feedbcak di saat yang tepat"
+    ],
+    "answer": 3,
+    "id": 45
+  },
+  {
+    "module": 4,
+    "test": 1,
+    "question": "Komunikasi yang menggunakan kata-kata, baik secara lisan maupun tulisan disebut sebagai ....",
+    "options": [
+      "komunikasi langsung",
+      "bahasa",
+      "komunikasi verbal",
+      "komunikasi non verbal"
+    ],
+    "answer": 2,
+    "id": 46
+  },
+  {
+    "module": 4,
+    "test": 1,
+    "question": "Komunikasi verbal dapat dibedakan menjadi dua, yaitu komunikasi ....",
+    "options": [
+      "langsung dan komunikasi tidak langsung",
+      "lisan dan komunikasi tulisan",
+      "antarpribadi dan komunikasi massa",
+      "verbal dan komunikasi non verbal"
+    ],
+    "answer": 1,
+    "id": 47
+  },
+  {
+    "module": 4,
+    "test": 1,
+    "question": "Sistem lambang terstruktur yang digunakan untuk berkomunikasi disebut sebagai ....",
+    "options": [
+      "bahasa",
+      "simbol",
+      "angka",
+      "kata"
+    ],
+    "answer": 0,
+    "id": 48
+  },
+  {
+    "module": 4,
+    "test": 1,
+    "question": "Berikut merupakan fungsi dari bahasa, kecuali fungsi ....",
+    "options": [
+      "penamaan",
+      "interaksi",
+      "informasi",
+      "persuasi"
+    ],
+    "answer": 3,
+    "id": 49
+  },
+  {
+    "module": 4,
+    "test": 1,
+    "question": "Berikut ini yang bukan merupakan karakteristik dari kata adalah kata ....",
+    "options": [
+      "adalah simbol",
+      "terikat kultur",
+      "bersifat tetap",
+      "memiliki makna konkret atau abstrak"
+    ],
+    "answer": 2,
+    "id": 50
+  },
+  {
+    "module": 4,
+    "test": 1,
+    "question": "Berikut ini yang merupakan tiga elemen penting dalam kata menurut Charles Ogden dan Ivor Richards adalah ....",
+    "options": [
+      "arti kata, pemahaman, objek",
+      "referen, pemahaman, simbol",
+      "referen, pemahaman, bahasa",
+      "arti kata, pemahaman, simbol"
+    ],
+    "answer": 1,
+    "id": 51
+  },
+  {
+    "module": 4,
+    "test": 1,
+    "question": "Prinsip bahasa terikat kultur dari Sapir-Whorf yang menyebutkan bahwa karena bahasa menentukan persepsi kita tentang realitas, orang-orang yang berbicara bahasa yang berbeda akan melihat dunia secara berbeda pula, disebut sebagai ....",
+    "options": [
+      "determinisme numerik",
+      "determinisme linguistik",
+      "relativitas numerik",
+      "relativitas linguistik"
+    ],
+    "answer": 3,
+    "id": 52
+  },
+  {
+    "module": 4,
+    "test": 2,
+    "question": "Hal-hal yang dapat menghalangi penyampaian pesan kepada penerima pesan, disebut ....",
+    "options": [
+      "hambatan interaksi",
+      "hambatan komunikasi",
+      "konflik",
+      "polarisasi"
+    ],
+    "answer": 1,
+    "id": 53
+  },
+  {
+    "module": 4,
+    "test": 2,
+    "question": "Di bawah ini adalah hambatan-hambatan dalam interaksi bahasa verbal, kecuali ....",
+    "options": [
+      "gangguan semantik",
+      "polarisasi",
+      "orientasi intensional",
+      "indiskriminasi"
+    ],
+    "answer": 0,
+    "id": 54
+  },
+  {
+    "module": 4,
+    "test": 2,
+    "question": "Kecenderungan kita melihat objek, manusia, atau peristiwa sesuai dengan ciri yang melekat pada suatu hal disebut sebagai ....",
+    "options": [
+      "polarisasi",
+      "orientasi intensional",
+      "implikasi pragmatis",
+      "evaluasi statis"
+    ],
+    "answer": 1,
+    "id": 55
+  },
+  {
+    "module": 4,
+    "test": 2,
+    "question": "Berikut ini hal yang dapat mempengaruhi kredibilitas dalam penyampaian kata, kecuali ....",
+    "options": [
+      "Klise",
+      "Dialek",
+      "Pelafalan",
+      "Berdalih/Mengelak"
+    ],
+    "answer": 2,
+    "id": 56
+  },
+  {
+    "module": 4,
+    "test": 2,
+    "question": "Wina mendatangi sebuah seminar dengan pembicara bernama Rahmad. Wina merasa tidak setuju dan tidak cocok dengan kata-kata dan ide yang disampaikan oleh pembicara tersebut. Sejak saat itu, Wina pun enggan untuk mengikuti, melihat dan mendengarkan semua seminar yang disampaikan oleh Rahmad. Padahal, belum tentu setiap gagasan Rahmad selalu berbeda dengan Wina. Ilustrasi di atas adalah contoh hambatan komunikasi verbal yang disebut dengan ....",
+    "options": [
+      "indiskriminasi",
+      "evaluasi statis",
+      "klise",
+      "bypassing"
+    ],
+    "answer": 1,
+    "id": 57
+  },
+  {
+    "module": 5,
+    "test": 1,
+    "question": "Berikut yang termasuk pesan nonverbal ....",
+    "options": [
+      "ekspresi wajah",
+      "pemilihan diksi/kalimat dalam berbicara",
+      "teks pidato",
+      "pesan singkat tanpa simbol"
+    ],
+    "answer": 0,
+    "id": 58
+  },
+  {
+    "module": 5,
+    "test": 1,
+    "question": "Di bawah ini yang merupakan prinsip-prinsip komunikasi nonverbal adalah ....",
+    "options": [
+      "pesan nonverbal berinteraksi dengan pesan verbal",
+      "pesan nonverbal membantu membentuk kesan",
+      "pesan nonverbal membangun percakapan",
+      "semua benar"
+    ],
+    "answer": 3,
+    "id": 59
+  },
+  {
+    "module": 5,
+    "test": 1,
+    "question": "Manakah yang bukan termasuk kegiatan komunikasi nonverbal ....",
+    "options": [
+      "mengirim kalimat tanpa emoticon pada pesan teks",
+      "melambaikan tangan dari kejauhan pada orang yang dikenal",
+      "tersenyum dan menyapa teman",
+      "menepuk bahu sahabat yang sedang bersedih"
+    ],
+    "answer": 0,
+    "id": 60
+  },
+  {
+    "module": 5,
+    "test": 1,
+    "question": "Contoh pesan nonverbal yang berfungsi untuk menipu atau menutupi, adalah ....",
+    "options": [
+      "Tia sedang bersedih, namun berusaha untuk selalu tersenyum agar terlihat baik-baik saja",
+      "Wina menyampaikan undangan pernikahannya dengan wajah berseri-seri",
+      "Saat berdiskusi, Emma menyatakan setuju dengan pendapat rekan kerjanya sambil menganggukkan kepala",
+      "Haryo mengangkat tangan saat ingin bertangan di dalam kelas."
+    ],
+    "answer": 0,
+    "id": 61
+  },
+  {
+    "module": 5,
+    "test": 1,
+    "question": "Pesan verbal dan nonverbal saling mempengaruhi dalam beberapa hal berikut, kecuali untuk ....",
+    "options": [
+      "menekankan",
+      "melengkapi",
+      "saling menutupi makna",
+      "menggantikan"
+    ],
+    "answer": 2,
+    "id": 62
+  },
+  {
+    "module": 5,
+    "test": 2,
+    "question": "Kecenderungan kuat untuk mengaitkan kualitas positif seseorang berdasarkan penampilannya secara fisik, hal ini biasa disebut sebagai ....",
+    "options": [
+      "public distance",
+      "halo effect",
+      "artefak",
+      "parabahasa"
+    ],
+    "answer": 1,
+    "id": 63
+  },
+  {
+    "module": 5,
+    "test": 2,
+    "question": "Jarak pribadi seseorang berkisar antara ....",
+    "options": [
+      "45 cm sampai sekitar 120 cm",
+      "0 cm – 45 cm",
+      "120 – 210 cm",
+      "360-450 cm"
+    ],
+    "answer": 0,
+    "id": 64
+  },
+  {
+    "module": 5,
+    "test": 2,
+    "question": "Reaksi posesif terhadap suatu area atau benda tertentu, disebut ....",
+    "options": [
+      "artefak",
+      "teritorial",
+      "personal distance",
+      "intimate distance"
+    ],
+    "answer": 1,
+    "id": 65
+  },
+  {
+    "module": 5,
+    "test": 2,
+    "question": "DeVito menyebutkan fungsi utama kontak mata, yakni ....",
+    "options": [
+      "untuk memantau umpan balik",
+      "mendapatkan perhatian",
+      "untuk mengatur percakapan",
+      "semua benar"
+    ],
+    "answer": 3,
+    "id": 66
+  },
+  {
+    "module": 5,
+    "test": 2,
+    "question": "Contoh Intimate Distance adalah ....",
+    "options": [
+      "dosen yang sedang mengajar mahasiswa di kelas",
+      "ibu yang sedang memeluk anaknya",
+      "salesman yang sedang menjelaskan barang dagangannya ke pembeli",
+      "dua orang yang sedang berjabat tangan"
+    ],
+    "answer": 1,
+    "id": 67
+  },
+  {
+    "module": 6,
+    "test": 1,
+    "question": "Koneksi yang kita buat ketika kita berkomunikasi dengan orang lain disebut sebagai ....",
+    "options": [
+      "hubungan",
+      "permusuhan",
+      "konflik",
+      "keakraban"
+    ],
+    "answer": 0,
+    "id": 68
+  },
+  {
+    "module": 6,
+    "test": 1,
+    "question": "Berikut ini yang merupakan alasan pengembangan hubungan menurut DeVito adalah ....",
+    "options": [
+      "manfaat kesehatan",
+      "manfaat material",
+      "manfaat emosional",
+      "mengurangi kesepian"
+    ],
+    "answer": 3,
+    "id": 69
+  },
+  {
+    "module": 6,
+    "test": 1,
+    "question": "Di bawah ini adalah alasan menjalin hubungan antarpribadi, kecuali ....",
+    "options": [
+      "manfaat kesehatan",
+      "manfaat material",
+      "memaksimalkan kesenangan",
+      "manfaat ketenaran dan menjadi popular"
+    ],
+    "answer": 3,
+    "id": 70
+  },
+  {
+    "module": 6,
+    "test": 1,
+    "question": "Hani curhat pada sahabatnya, Milna, tentang ia yang baru saja di PHK dari perusahaan tempatnya bekerja karena kondisi keuangan perusahaan yang buruk. Milna kemudian menawarkan Hani bekerja di Butik miliknya. Hani dengan senang hati menerima tawaran tersebut dan sangat berterima kasih kepada Milna. Cerita di atas merupakan salah satu contoh manfaat hubungan dalam hal ....",
+    "options": [
+      "manfaat emosional",
+      "manfaat material",
+      "manfaat kesehatan",
+      "mendapatkan pengetahuan diri"
+    ],
+    "answer": 1,
+    "id": 71
+  },
+  {
+    "module": 6,
+    "test": 1,
+    "question": "Di bawah ini yang merupakan manfaat menambah pengetahuan diri dalam pengembangan hubungan adalah ....",
+    "options": [
+      "Anak Dian sedang di rumah sakit dan dia kesulitan keuangan, dengan terpaksa Ia berhutang ke Nurul, sahabatnya",
+      "Tia memiliki minat besar dalam fotografi, kemudian ia bergabung dengan klub fotografi di kampus dan mendapat banyak sahabat baru di sana.",
+      "Indah gagal dalam ujian, kemudian Ibunya menghibur dan memeluknya",
+      "Aisyah sangat senang makan mi instan, kakaknya selalu menegur dan melarangnya jika terlalu sering."
+    ],
+    "answer": 1,
+    "id": 72
+  },
+  {
+    "module": 6,
+    "test": 2,
+    "question": "Pras tertarik untuk berkenalan dengan Naya, karena ia melihat gadis ini di hampir setiap pameran fotografi yang ia datangi. Karena keduanya menyukai fotografi, akhirnya mereka berteman dekat. Cerita tersebut merupakan contoh daya tarik ....",
+    "options": [
+      "penampilan fisik",
+      "kesamaan",
+      "kedekatan",
+      "sifat saling melengkapi"
+    ],
+    "answer": 1,
+    "id": 73
+  },
+  {
+    "module": 6,
+    "test": 2,
+    "question": "Proksimitas adalah ....",
+    "options": [
+      "kedekatan jarak",
+      "frekuensi bertemu",
+      "kesamaan",
+      "kecocokan"
+    ],
+    "answer": 0,
+    "id": 74
+  },
+  {
+    "module": 6,
+    "test": 2,
+    "question": "Contoh daya tarik hubungan antarpribadi karena sifat kedekatan jarak adalah ....",
+    "options": [
+      "Ratna dan Dini sering berangkat ke kampus bersama karena bertetangga, mereka pun menjadi teman akrab",
+      "Rikha dan teman-teman sekampusnya dulu merencanakan arisan bulanan meski masing-masing tinggal di kota berbeda",
+      "Syifa dan Reza telah berpacaran jarak jauh selama 3 tahun",
+      "Andina bergabung dengan klub backpakcer dari berbagai daerah"
+    ],
+    "answer": 0,
+    "id": 75
+  },
+  {
+    "module": 6,
+    "test": 2,
+    "question": "Riana yang pendiam, menikah dengan Danu yang ramah dan supel. Hal di atas merupakan contoh daya tarik hubungan antarpribadi karena ....",
+    "options": [
+      "daya tarik fisik",
+      "kesamaan",
+      "sifat saling melengkapi",
+      "proksimitas"
+    ],
+    "answer": 2,
+    "id": 76
+  },
+  {
+    "module": 6,
+    "test": 2,
+    "question": "Floyd (2012), mengutarakan alasan kenapa faktor kesamaan menjadi daya tarik dalam untuk menjalin hubungan, yaitu ....",
+    "options": [
+      "kita sering menemukan validasi sosial pada orang yang mirip dengan kita.",
+      "kita melihat perbedaan sebagai kualitas yang melengkapi kita",
+      "kedekatan memungkinkan kita lebih mengenal orang lain",
+      "manusia sangat berorientasi pada visual"
+    ],
+    "answer": 0,
+    "id": 77
+  },
+  {
+    "module": 6,
+    "test": 3,
+    "question": "Berikut ini merupakan sifat dari hubungan pertemanan menurut Wood, kecuali ....",
+    "options": [
+      "kemauan untuk memberi",
+      "kedekatan emosi",
+      "dukungan",
+      "timbal balik"
+    ],
+    "answer": 3,
+    "id": 78
+  },
+  {
+    "module": 6,
+    "test": 3,
+    "question": "Tipe pertemanan yang bersifat sementara disebut dengan pertemanan ....",
+    "options": [
+      "timbal balik",
+      "penerimaan",
+      "asosiasi",
+      "sejati"
+    ],
+    "answer": 2,
+    "id": 79
+  },
+  {
+    "module": 6,
+    "test": 3,
+    "question": "Berikut ini merupakan tipe-tipe hubungan cinta, kecuali ....",
+    "options": [
+      "eros",
+      "laissez-faire",
+      "storge",
+      "pragma"
+    ],
+    "answer": 1,
+    "id": 80
+  },
+  {
+    "module": 6,
+    "test": 3,
+    "question": "Cinta yang praktis dan mencari hubungan yang akan berjalan baik, mencari kecocokan dan hubungan dimana kebutuhan serta hasrat terpuaskan merupakan tipe hubungan cinta ....",
+    "options": [
+      "mania",
+      "eros",
+      "agape",
+      "pragma"
+    ],
+    "answer": 3,
+    "id": 81
+  },
+  {
+    "module": 6,
+    "test": 3,
+    "question": "Hubungan keluarga yang memiliki konformitas rendah namun perbincangan tinggi, merupakan tipe keluarga ....",
+    "options": [
+      "pluralistic families",
+      "protective families",
+      "laissez-faire families",
+      "consensual families"
+    ],
+    "answer": 0,
+    "id": 82
+  },
+  {
+    "module": 6,
+    "test": 3,
+    "question": "Berikut ini merupakan tahapan dalam hubungan menurut DeVito, kecuali ....",
+    "options": [
+      "keakraban",
+      "keterlibatan",
+      "ketertarikan",
+      "perusakan"
+    ],
+    "answer": 2,
+    "id": 83
+  },
+  {
+    "module": 7,
+    "test": 1,
+    "question": "Di bawah ini merupakan elemen yang harus dimiliki sebuah interaksi agar dapat dikategorikan sebagai konflik antarpribadi, kecuali konflik ....",
+    "options": [
+      "merupakan pergulatan yang tidak dinyatakan",
+      "terjadi di antara pihak yang saling bergantung",
+      "adalah tentang tujuan yang tidak selaras di antara pihak yang menjalin hubungan",
+      "mencerminkan adanya ketidakcocokan"
+    ],
+    "answer": 0,
+    "id": 84
+  },
+  {
+    "module": 7,
+    "test": 1,
+    "question": "Di bawah ini yang merupakan salah satu karakteristik dasar konflik dalam hubungan antarpribadi menurut Floyd adalah konflik ....",
+    "options": [
+      "hanya dapat terjadi secara langsung",
+      "tidak berbahaya",
+      "adalah hal yang alami",
+      "tidak mempunyai manfaat"
+    ],
+    "answer": 2,
+    "id": 85
+  },
+  {
+    "module": 7,
+    "test": 1,
+    "question": "Berikut ini yang merupakan contoh konflik antarpribadi adalah ....",
+    "options": [
+      "Kim Jong Un, Presiden Korea Utara, mengancam akan meluncurkan rudal ke pangkalan militer Amerika Serikat di Guam.",
+      "Adi kabur dari rumah setelah bertengkar hebat dengan ayahnya semalam karena ayahnya tidak mengizinkannya bekerja sebagai pemain band.",
+      "Kemarin malam, terjadi tawuran antarwarga, yang dipicu oleh pertandingan sepakbola antar kampung yang dinilai penuh dengan kecurangan.",
+      "Dara sebenarnya tidak terlalu suka dengan hobi suaminya ber-travelling, karena ia menganggap hal itu sebagai pemborosan, tapi ia tidak pernah mengutarakan hal tersebut kepada suaminya"
+    ],
+    "answer": 1,
+    "id": 86
+  },
+  {
+    "module": 7,
+    "test": 1,
+    "question": "Di bawah ini yang merupakan mitos tentang konflik menurut DeVito adalah ....",
+    "options": [
+      "konflik sebaiknya dihindari",
+      "konflik merusak hubungan antarpribadi",
+      "konflik merupakan pertanda sebuah hubungan bermasalah",
+      "semua benar"
+    ],
+    "answer": 3,
+    "id": 87
+  },
+  {
+    "module": 7,
+    "test": 2,
+    "question": "Peraturan atau harapan yang dimiliki orang yang terlibat konflik mengenai bagaimana konflik tersebut ditangani disebut sebagai ....",
+    "options": [
+      "dimensi isi",
+      "dimensi relasional",
+      "dimensi prosedural",
+      "semuanya benar"
+    ],
+    "answer": 2,
+    "id": 88
+  },
+  {
+    "module": 7,
+    "test": 2,
+    "question": "Konflik juga dapat bermanfaat bagi orang-orang yang terlibat di dalamnya. Salah satu manfaat konflik adalah ....",
+    "options": [
+      "untuk mengetahui bahwa sebuah hubungan bermasalah",
+      "konflik membantu orang yang terlibat di dalamnya belajar lebih banyak tentang satu sama lain",
+      "konflik memperlihatkan ketidakcocokan antara kita dan partner kita",
+      "konflik menyebabkan munculnya emosi negative"
+    ],
+    "answer": 1,
+    "id": 89
+  },
+  {
+    "module": 7,
+    "test": 2,
+    "question": "Ketika dua orang mendekati konflik dengan nilai dan norma yang sangat berbeda, mereka cenderung salah memahami perilaku masing-masing, dan kesalahpahaman tersebut dapat memperburuk konflik. Konflik jenis ini dipengaruhi oleh ....",
+    "options": [
+      "budaya",
+      "gender",
+      "kekuasaan",
+      "media online"
+    ],
+    "answer": 0,
+    "id": 90
+  },
+  {
+    "module": 7,
+    "test": 2,
+    "question": "Pernyataan yang paling tepat terkait pengaruh gender dalam konflik adalah ....",
+    "options": [
+      "pria lebih sering menunjukkan perasaan takut sedangkan wanita lebih sering mengungkapkan kemarahan",
+      "wanita lebih sering mengekspresikan emosi positif sedangkan pria lebih sering mengekspresikan kemarahan",
+      "wanita menghadapi konflik secara langsung sedangkan pria lebih senang menggunakan taktik agresi pasif",
+      "wanita lebih sering mengekspresikan perasaan takut sedangkan pria lebih sering mengekspresikan emosi positif"
+    ],
+    "answer": 1,
+    "id": 91
+  },
+  {
+    "module": 7,
+    "test": 3,
+    "question": "Ketika dua orang mendekati konflik dengan nilai dan norma yang sangat berbeda, mereka cenderung salah memahami perilaku masing-masing, dan kesalahpahaman tersebut dapat memperburuk konflik. Konflik jenis ini dipengaruhi oleh ....",
+    "options": [
+      "budaya",
+      "gender",
+      "kekuasaan",
+      "media online"
+    ],
+    "answer": 0,
+    "id": 92
+  },
+  {
+    "module": 7,
+    "test": 3,
+    "question": "Pernyataan yang paling tepat terkait pengaruh gender dalam konflik adalah ....",
+    "options": [
+      "pria lebih sering menunjukkan perasaan takut sedangkan wanita lebih sering mengungkapkan kemarahan",
+      "wanita lebih sering mengekspresikan emosi positif sedangkan pria lebih sering mengekspresikan kemarahan",
+      "wanita menghadapi konflik secara langsung sedangkan pria lebih senang menggunakan taktik agresi pasif",
+      "wanita lebih sering mengekspresikan perasaan takut sedangkan pria lebih sering mengekspresikan emosi positif"
+    ],
+    "answer": 1,
+    "id": 93
+  },
+  {
+    "module": 7,
+    "test": 3,
+    "question": "Pola perilaku di mana individu menyembunyikan agresi mereka dalam perilaku yang tampaknya tidak bersalah disebut sebagai ....",
+    "options": [
+      "pasif",
+      "ofensif",
+      "agresi pasif",
+      "agresi ofensif"
+    ],
+    "answer": 2,
+    "id": 94
+  },
+  {
+    "module": 7,
+    "test": 3,
+    "question": "Di bawah ini yang merupakan strategi dalam menangani konflik dalam konteks online adalah ....",
+    "options": [
+      "jangan langsung merespons",
+      "jelaskan apa pun kata atau kalimat yang dapat membuat orang lain salah paham",
+      "gunakan emoticon yang sesuai untuk mengekspresikan nada kalimat Anda",
+      "semua benar"
+    ],
+    "answer": 3,
+    "id": 95
+  },
+  {
+    "module": 8,
+    "test": 1,
+    "question": "Berikut ini merupakan tahapan resolusi konflik menurut DeVito, kecuali ....",
+    "options": [
+      "atur panggung",
+      "menentukan konflik",
+      "menghindari konflik",
+      "evaluasi solusi"
+    ],
+    "answer": 2,
+    "id": 96
+  },
+  {
+    "module": 8,
+    "test": 1,
+    "question": "Di bawah ini yang merupakan salah satu teknik dalam menentukan konflik adalah ....",
+    "options": [
+      "fokuslah pada peristiwa masa lampau",
+      "cobalah untuk membaca pikiran lawan konflik Anda",
+      "pikirkanlah kepentingan diri Anda sendiri saat berkonflik",
+      "tentukanlah inti permasalahan Anda dan masalah hubungan mendasar"
+    ],
+    "answer": 3,
+    "id": 97
+  },
+  {
+    "module": 8,
+    "test": 1,
+    "question": "Menurut Edward deBono dalam mengevaluasi solusi, kita dapat menggunakan enam \"topi berpikir\" untuk mencari perspektif yang berbeda. Topi berpikir yang dapat membantu kita untuk menganalisis apa yang sedang kita lakukan dan meminta kita untuk merenungkan pemikiran kita sendiri disebut dengan topi ....",
+    "options": [
+      "manfaat positif",
+      "pengendalian pikiran",
+      "argumen negatif",
+      "perasaan"
+    ],
+    "answer": 1,
+    "id": 98
+  },
+  {
+    "module": 8,
+    "test": 1,
+    "question": "Berikut yang merupakan tahapan dalam resolusi konflik adalah ....",
+    "options": [
+      "atur panggung",
+      "evaluasi solusi",
+      "uji solusi",
+      "semua benar"
+    ],
+    "answer": 3,
+    "id": 99
+  },
+  {
+    "module": 8,
+    "test": 1,
+    "question": "Tahapan akhir dalam resolusi konflik adalah ....",
+    "options": [
+      "uji solusi",
+      "evaluasi solusi",
+      "menerapkan solusi",
+      "atur panggung"
+    ],
+    "answer": 2,
+    "id": 100
+  },
+  {
+    "module": 8,
+    "test": 2,
+    "question": "Melihat diri sebagai korban dan menolak bertanggung jawab atas perilakunya sendiri, disebut dengan ....",
+    "options": [
+      "sikap defensif",
+      "kritik",
+      "hinaan",
+      "mengeluh"
+    ],
+    "answer": 0,
+    "id": 101
+  },
+  {
+    "module": 8,
+    "test": 2,
+    "question": "Sikap menarik diri dari percakapan atau interaksi disebut sebagai ....",
+    "options": [
+      "stonewalling",
+      "sikap defensif",
+      "sikap ekspresif",
+      "sikap ofensif"
+    ],
+    "answer": 0,
+    "id": 102
+  },
+  {
+    "module": 8,
+    "test": 2,
+    "question": "Berikut ini yang bukan merupakan perilaku bermasalah selama konflik adalah ....",
+    "options": [
+      "kritik",
+      "hinaan",
+      "sikap ofensif",
+      "stonewalling"
+    ],
+    "answer": 2,
+    "id": 103
+  },
+  {
+    "module": 8,
+    "test": 2,
+    "question": "Akibat dari perilaku bermasalah selama konflik adalah ....",
+    "options": [
+      "mengelola konflik secara konstruktif",
+      "konflik selesai dengan efektif",
+      "mengelola konflik secara matang",
+      "konflik dapat menjadi perusak hubungan"
+    ],
+    "answer": 3,
+    "id": 104
+  },
+  {
+    "module": 8,
+    "test": 2,
+    "question": "Dina bertengkar dengan sahabatnya, alih-alih berusaha tenang dan meredakan emosi, Dina malah berkata kasar dan menyebut sahabatnya dengan kata-kata \"bodoh\" dan \"tidak tahu diri\". Ilustrasi di atas merupakan perilaku bermasalah selama konflik yang disebut dengan ....",
+    "options": [
+      "kritik",
+      "sikap ofensif",
+      "hinaan",
+      "sikap defensif"
+    ],
+    "answer": 2,
+    "id": 105
+  },
+  {
+    "module": 8,
+    "test": 3,
+    "question": "Berikut ini yang termasuk dalam lima strategi utama untuk menyelesaikan konflik adalah ....",
+    "options": [
+      "bersaing",
+      "menghindar",
+      "mengakomodasi",
+      "semua benar"
+    ],
+    "answer": 3,
+    "id": 106
+  },
+  {
+    "module": 8,
+    "test": 3,
+    "question": "Manajemen konflik dengan cara menunjukkan perhatian kita yang tinggi terhadap orang lain dibandingkan dengan kepentingan sendiri disebut sebagai ....",
+    "options": [
+      "berkompromi",
+      "bersaing",
+      "berkolaborasi",
+      "mengakomodasi"
+    ],
+    "answer": 3,
+    "id": 107
+  },
+  {
+    "module": 8,
+    "test": 3,
+    "question": "Keluarga Tari dan Mari memiliki satu unit motor matic dan satu unit mobil. Mobil digunakan oleh kedua orang tua mereka, sedangkan Tari dan Mari menggunakan motor. Di awal, mereka sempat berkonflik karena kampus mereka tidak searah dan jadwal kuliah mereka hampir sama. Tapi kemudian mereka berdua memutuskan untuk memakai motor matic itu bergantian setiap hari, jika hari ini jadwal Tari yang memakai matic maka Mari harus naik kendaraan umum, begitu juga sebaliknya. Strategi manajemen konflik yang digunakan Tari dan Mari adalah ....",
+    "options": [
+      "bersaing",
+      "berkompromi",
+      "mengakomodasi",
+      "kolaborasi"
+    ],
+    "answer": 1,
+    "id": 108
+  },
+  {
+    "module": 8,
+    "test": 3,
+    "question": "Di bawah ini adalah hal-hal yang dapat dilakukan untuk meningkatkan kemampuan manajemen konflik, kecuali ....",
+    "options": [
+      "mengatur emosi",
+      "mengelola informasi",
+      "mengatur waktu",
+      "mengelola tujuan"
+    ],
+    "answer": 2,
+    "id": 109
+  },
+  {
+    "module": 8,
+    "test": 3,
+    "question": "Berikut ini yang merupakan strategi yang dapat dilakukan ketika ketegangan emosional muncul dan memicu konflik adalah ....",
+    "options": [
+      "pilihlah waktu dan tempat yang tepat untuk mendiskusikan konflik",
+      "usulkan solusi konflik yang memenuhi kebutuhan masing-masing pihak yang paling mendesak",
+      "bacalah pikiran lawan berkonflik Anda.",
+      "pikirkanlah kepentingan Anda sendiri saat berkonflik"
+    ],
+    "answer": 0,
+    "id": 110
+  },
+  {
+    "module": 9,
+    "test": 1,
+    "question": "Teori yang bertujuan untuk menjelaskan bagaimana komunikasi digunakan untuk mengurangi ketidakpastian di antara orang asing yang satu sama lain terlibat dalam pembicaraan untuk pertama kalinya disebut sebagai ....",
+    "options": [
+      "teori penetrasi sosial",
+      "teori pengurangan ketidakpastian",
+      "teori pertukaran sosial",
+      "analogi kulit bawang"
+    ],
+    "answer": 1,
+    "id": 111
+  },
+  {
+    "module": 9,
+    "test": 1,
+    "question": "Berikut ini merupakan asumsi-asumsi yang terdapat pada teori pengurangan ketidakpastian, kecuali ....",
+    "options": [
+      "komunikasi interpersonal terjadi secara spontan, langsung, dan tanpa melalui proses",
+      "ketidakpastian adalah keadaan yang tidak mengenakkan, menimbulkan stres secara kognitif.",
+      "sangat mungkin untuk menduga perilaku orang dengan menggunakan cara seperti hukum.",
+      "ketika orang asing bertemu, perhatian umum mereka adalah untuk mengurangi ketidakpastian mereka atau meningkatkan prediktabilitas."
+    ],
+    "answer": 0,
+    "id": 112
+  },
+  {
+    "module": 9,
+    "test": 1,
+    "question": "Dalam teori penetrasi sosial hubungan antarpribadi berkembang secara ....",
+    "options": [
+      "spontan dan tidak dapat diprediksi",
+      "spontan dan dapat diprediksi",
+      "bertahap dan tidak dapat diprediksi",
+      "bertahap dan dapat diprediksi"
+    ],
+    "answer": 3,
+    "id": 113
+  },
+  {
+    "module": 9,
+    "test": 1,
+    "question": "Di bawah ini yang merupakan asumsi dalam teori ini penetrasi sosial adalah ....",
+    "options": [
+      "konsep diri adalah inti dari perkembangan hubungan",
+      "perkembangan hubungan hanya mencakup depenetrasi atau penarikan diri",
+      "hubungan-hubungan mengalami kemajuan dari tidak intim menjadi tidak intim",
+      "secara umum, perkembangan hubungan sistematis dan tidak dapat diprediksi"
+    ],
+    "answer": 2,
+    "id": 114
+  },
+  {
+    "module": 9,
+    "test": 1,
+    "question": "Tahap kedua dalam analogi kulit bawang, di mana keterbukaan orang lain akan mengarahkan seseorang untuk terbuka disebut sebagai ....",
+    "options": [
+      "citra publik",
+      "resiprositas",
+      "keluasan",
+      "kedalaman"
+    ],
+    "answer": 1,
+    "id": 115
+  },
+  {
+    "module": 9,
+    "test": 1,
+    "question": "Berikut ini yang merupakan urutan lapisan yang benar dalam analogi kulit bawang adalah ..",
+    "options": [
+      "citra publik, keluasan, resiprositas, kedalaman",
+      "resiprositas, citra publik, kedalaman, keluasan",
+      "citra publik, resiprositas, kedalaman, keluasan",
+      "citra publik, resiprositas, keluasan, kedalaman"
+    ],
+    "answer": 3,
+    "id": 116
+  },
+  {
+    "module": 9,
+    "test": 1,
+    "question": "Tahapan dalam penetrasi sosial yang berhubungan dengan pengungkapan pemikiran, perasaan dan perilaku secara terbuka yang mengakibatkan munculnya spontanitas dan keunikan hubungan yang tinggi disebut tahap ....",
+    "options": [
+      "orientasi",
+      "pertukaran afektif",
+      "pertukaran penjajakan afektif",
+      "pertukaran stabil"
+    ],
+    "answer": 3,
+    "id": 117
+  },
+  {
+    "module": 9,
+    "test": 2,
+    "question": "Faktor penting yang diperlukan untuk memelihara keseimbangan dan memperteguh hubungan interpersonal, yaitu kecuali ....",
+    "options": [
+      "keakraban",
+      "kontrol",
+      "respons yang tepat",
+      "jarak"
+    ],
+    "answer": 3,
+    "id": 118
+  },
+  {
+    "module": 9,
+    "test": 2,
+    "question": "Manakah yang bukan merupakan sumber konflik?",
+    "options": [
+      "Intensitas pertemuan.",
+      "Kompetisi.",
+      "Provokasi.",
+      "Perbedaan nilai."
+    ],
+    "answer": 0,
+    "id": 119
+  },
+  {
+    "module": 9,
+    "test": 2,
+    "question": "Salah satu pihak terus-menerus berbuat sesuatu yang ia ketahui menyinggung perasaan yang lain, disebut dengan ....",
+    "options": [
+      "kompetisi",
+      "provokasi",
+      "perbedaan nilai",
+      "kontrol"
+    ],
+    "answer": 1,
+    "id": 120
+  },
+  {
+    "module": 9,
+    "test": 2,
+    "question": "Standar yang mewakili perasaan orang mengenai apa yang mereka harus terima dalam hal penghargaan dan pengorbanan dari sebuah hubungan disebut sebagai level ....",
+    "options": [
+      "perbandingan",
+      "perhitungan",
+      "perbedaan",
+      "persamaan"
+    ],
+    "answer": 0,
+    "id": 121
+  },
+  {
+    "module": 9,
+    "test": 2,
+    "question": "Putri mengungkapkan kesedihannya kepada sahabatnya Nurul. Kemudian, Nurul merespons dengan perasaan simpatik dan menunjukkan kedukaan yang sama. Ilustrasi di atas menceritakan tentang salah satu faktor pengembangan hubungan interpesonal yang disebut dengan ....",
+    "options": [
+      "keserasian suasana emosional",
+      "dominasi",
+      "kontrol",
+      "keakraban"
+    ],
+    "answer": 0,
+    "id": 122
+  },
+  {
+    "module": 9,
+    "test": 3,
+    "question": "Terdapat empat faktor penting yang diperlukan untuk memelihara keseimbangan dan memperteguh hubungan interpersonal, yakni ....",
+    "options": [
+      "keakraban, konflik, respons yang tepat, nada emosional yang tepat",
+      "keakraban, kontrol, respons yang tepat, nada emosional yang tepat",
+      "keakraban, konflik, emosi yang tepat, nada emosional yang tepat",
+      "keakraban, kontrol, emosi yang tepat, respons yang tepat"
+    ],
+    "answer": 1,
+    "id": 123
+  },
+  {
+    "module": 9,
+    "test": 3,
+    "question": "Contoh dari prosocial behavior adalah ....",
+    "options": [
+      "merencanakan masa depan bersama",
+      "bersikap defensif",
+      "mengungkit kesalahan pasangan",
+      "memprovokasi pertengkaran"
+    ],
+    "answer": 0,
+    "id": 124
+  },
+  {
+    "module": 9,
+    "test": 3,
+    "question": "Mengekspresikan komitmen dan kesetiaan dan kepedulian kita terhadap orang lain di dalam hubungan, disebut ....",
+    "options": [
+      "terbuka",
+      "assurence (memberi jaminan)",
+      "jujur",
+      "menjaga komunikasi"
+    ],
+    "answer": 1,
+    "id": 125
+  },
+  {
+    "module": 9,
+    "test": 3,
+    "question": "Hal di bawah ini yang bukan menjelaskan tentang pengembangan hubungan antarpribadi di media online, adalah ....",
+    "options": [
+      "melalui kedekatan yang dibangun dengan bahasa verbal, individu seolah-olah merasakan interaksi secara langsung dengan teman komunikasinya meskipun berada pada jarak yang jauh",
+      "seseorang dapat berinteraksi dengan yang lain walaupun berada di lokasi maupun zona waktu yang berbeda. Bahkan, menurunnya jumlah interaksi tatap muka disebabkan karena interaksi yang termediasi kadang dianggap lebih efektif",
+      "pengguna situs jejaring dapat membangun pertemanan, persahabatan bahkan percintaan dengan bahasa verbal yang dikirimkan secara intens, dan menimbulkan keintiman",
+      "intensitas pertemuan menjadikan seseorang cocok dan tercipta sebuah hubungan akrab"
+    ],
+    "answer": 3,
+    "id": 126
+  }
+]
